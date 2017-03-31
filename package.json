@@ -1,11 +1,23 @@
 {
   "name": "access-mod",
-  "version": "0.0.1",
-  "description": "Gives private and protected access modifiers to javascript classes",
+  "version": "0.0.21",
+  "description": "Gives private and protected access modifiers to javascript ES2015 classes with support for inheritance",
   "main": "index.js",
   "scripts": {
     "test": "node test/test"
   },
-  "author": "francoispqt",
+  "keywords": [
+      "protected",
+      "private",
+      "es2015",
+      "class",
+      "accessor",
+      "modifiers"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francoispqt/access-mod.git"
+  },
+  "author": "Francois Parquet",
   "license": "ISC"
 }
