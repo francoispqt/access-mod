@@ -44,10 +44,10 @@ module.exports = am.new(AccessModified);
 // --------------------------------------------------------
 'use strict';
 
-const AccessModified;
+const AccessModified = require('access-modified');
 
-// only public properties will be available to class
-let am = new AccessModified();
+// only public properties will be available to instance
+let amfd = new AccessModified();
 ```
 
 With inheritance
