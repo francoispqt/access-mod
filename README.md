@@ -93,5 +93,5 @@ class AccModChild extends am.inherit(AccModParent) {
     }
 }
 
-let accModChild = new (am.new(accModChild))();
+let accModChild = new (am.new(AccModChild))();
 ```
