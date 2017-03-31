@@ -1,0 +1,11 @@
+{
+  "name": "access-mod",
+  "version": "0.0.1",
+  "description": "Gives private and protected access modifiers to javascript classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test"
+  },
+  "author": "francoispqt",
+  "license": "ISC"
+}
